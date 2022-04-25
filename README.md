@@ -10,7 +10,8 @@
 
 🙋‍♂️ I use to promote knowledge exploration rather than exploitation through volunteering as a technical expert in the field of Data & Analytics.
 
-📫 To reach me by mail -> prasanna.uthamaraj@rennes-sb.com by LinkedIn -> https://www.linkedin.com/in/prasannadatabus/
+📫 To reach me by mail -> prasanna.uthamaraj@rennes-sb.com 
+by LinkedIn -> https://www.linkedin.com/in/prasannadatabus/
 
 🚀 Hurray! Lets go to research on my techical run!
 <!---
