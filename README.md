@@ -8,7 +8,7 @@
 
 💼I have 2+ years of combined experience in the following expertise, data collection, data transformation, statistical analysis, data visualization, data validation & quality, forecasting, regression analysis, correlation analysis, ML Algorithms, KPIs, and ETL Procedures.
 
-🙋‍♂️ I use to promote knowledge exploration rather than exploitation through volunteering as a technical expert in the field of Data & Analytics.
+🙋‍♂️ I use to promote knowledge exploration rather than exploitation through sharing resources as a technical expert in the field of Data & Analytics.
 
 📫 To reach me by mail -> prasanna.uthamaraj@rennes-sb.com 
 by LinkedIn -> https://www.linkedin.com/in/prasannadatabus/
