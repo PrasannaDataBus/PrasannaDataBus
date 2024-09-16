@@ -20,7 +20,7 @@
 
 🛢️ Currently managing: 1 Oracle Database, 16+ MySQL Databases, 2 Data Warehouses, 1 Data Lake, 4 Data Hubs, 1 Data Gateway, 11 Data Pipelines.
 
-🔧 Created 1 Data Warehouse, 9 Data Marts, 5 Data Pipelines, 7 Data Sources and continuing to develop more.
+🔧 Created 1 Data Warehouse, 9 Data Marts, 5 Data Pipelines, 9 Data Sources, 20+ reusable Python libraries and continuing to develop more.
 
 🔄 Processing 45,308.84 MB (around 44.25 GB) of Data each week.
 
