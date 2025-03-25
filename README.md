@@ -24,6 +24,8 @@
 
 🔧 Developed and currently developing custom, business-oriented data processing systems and data analytics systems using (Python, MySQL, PostgreSQL).
 
+🌱 I use Git for version control.
+
 ⚙️ Orchestrating & Building Infrastructures using Apache Airflow | Docker - YAML, Redis, Celery Executor, DB Initialization, Scheduler, Worker, Webserver.
 
 📊 4+ years' experience: Data collection, validation, quality assurance, transformations & preparations, analysis & statistics, visualizations, KPIs, web scraping, automations, and more.,
