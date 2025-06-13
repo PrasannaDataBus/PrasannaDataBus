@@ -16,7 +16,7 @@
 
 🌟 Currently handling: "Full Data Stack" - Database Design🛢️, Data Engineering 🔧, and Data Analysis 📊.
 
-⚙️ 3+ years of expertise across: Data Management, Data Architectures, Data Structures, Data Warehouse Architectures, Data Lakes, Data Hubs, Data Marts, Data Gateways, and ETL's.
+⚙️ 7+ years of expertise across: Data Management, Data Architectures, Data Structures, Data Warehouse Architectures, Data Lakes, Data Hubs, Data Marts, Data Gateways, and ETL's.
 
 🛢️ Currently managing: 1 Oracle Database, 16+ MySQL Databases, 4 Data Warehouses, 1 Data Lake, 5 Data Hubs, 2 Data Gateways, 33 Data Pipelines, 34 PostgreSQL Schemas, 1156 tables.
 
@@ -28,7 +28,7 @@
 
 ⚙️ Orchestrating & Building Infrastructures using Apache Airflow | Docker - YAML, Redis, Celery Executor, DB Initialization, Scheduler, Worker, Webserver.
 
-📊 4+ years' experience: Data collection, validation, quality assurance, transformations & preparations, analysis & statistics, visualizations, KPIs, web scraping, automations, and more.,
+📊 7+ years' experience: Data collection, validation, quality assurance, transformations & preparations, analysis & statistics, visualizations, KPIs, web scraping, automations, and more.,
 
 🌟 Creating automated and optimized analytics dashboard pipelines (MySQL/PostgreSQL -> PyCharm/Python -> MySQL/PostgreSQL -> Power BI) with efficient execution and refresh times of 5 to 10 minutes, ensuring reliable and scalable performance.
 
