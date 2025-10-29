@@ -20,8 +20,6 @@
 
 ⚙️ 5+ years' experience: Data Management, Data Architectures, Data Structures, Data Warehouse Architectures, Data Lakes, Data Hubs, Data Marts, Data Gateways, ETL's/ELT's.
 
-🛢️ Currently working with: 1 Oracle DB, 16+ MySQL DB's, 5 Data Warehouses, 1 Data Lake, 5 Data Hubs, 15 Data Marts, 2 Data Gateways, 50+ PostgreSQL Schemas, 1k+ tables.
-
 ☁️ I specialize in ETL/ELT processes, querying, and optimizing - AWS (Amazon Redshift, Amazon RDS - PostgreSQL) and MySQL Server (MySQL) data stores.
 
 🔧 Developed and currently developing custom, business-oriented data processing systems and data analytics systems using (Python, MySQL, PostgreSQL).
@@ -34,7 +32,7 @@
 
 🌟 Creating automated and agile analytics dashboard pipelines sourcing data from MySQL Server, Amazon Redshift, Amazon RDS based stores and tech stacking with Python, MySQL, PSQL, Power BI, Looker. Ensuring efficient execution and hourly refresh.
 
-☁️ I construct cloud pipelines with AWS services (IAM, DataSync, DMS, S3, LakeFormation, Glue, Aurora RDS, Lambda, EventBridge, EC2)
+☁️ I construct cloud pipelines with AWS services (IAM, DataSync, DMS, S3, LakeFormation, Glue, Athena, Aurora RDS, Lambda, EventBridge, EC2)
 
 🎯 I design, build, and plumb both platform and analytics pipelines.
 
