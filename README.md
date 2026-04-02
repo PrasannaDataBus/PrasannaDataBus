@@ -1,10 +1,8 @@
-👋🏾 Hi, I'm Prasanna, a data-driven weekday warrior!
+👋🏾 Hi, I'm Prasanna, a data super user.
 
-📜 Licensed under Apache 2.0, MIT, and GNU GPLv3, Mozilla public license 2.0 for proprietary projects.
+🌟 I have 7 years of experience with Python, 9 years with SQL & PostgreSQL - developing end-to-end data solutions.
 
-🌟 "I have 6 years of experience with Python, 8 years with SQL, and 4 years with PostgreSQL" - developing end-to-end data solutions.
-
-💼 Creator of JobTitleTransformer — Instantly clean & standardize job titles for free → pip install JobTitleTransformer
+💼 Developer of python library named JobTitleTransformer.
 
 🧑‍💼 CEC Level 7 | EQF Level 7 | Bac +7
 
@@ -18,25 +16,21 @@
 
 🌟 Currently handling: "3 Data Stacks" - Database Design, Data Engineering, and Data Analysis.
 
-⚙️ 5+ years' experience: Data Management, Data Architectures, Data Structures, Data Warehouse Architectures, Data Lakes, Data Hubs, Data Marts, Data Gateways, ETL's/ELT's.
+⚙️ 5+ years' experience: Data Management, Data Architectures, Data Structures, Data Warehouse Architectures, Data Lakes, Data Hubs, Data Marts, Data Gateways, ETL's, ELT's, Dev / Prod.
 
-☁️ I specialize in ETL/ELT processes, querying, and optimizing - AWS (Amazon Redshift, Amazon RDS - PostgreSQL) and MySQL Server (MySQL) data stores.
+☁️ I specialize in ETL, ELT processes with AWS S3, AWS Redshift, AWS RDS, GCP Bigquery, MySQL Server based data platforms.
 
-🔧 Developed and currently developing custom, business-oriented data processing systems and data analytics systems using (Python, MySQL, PostgreSQL).
+☁️ In my current role, I have architected, built and delivered the first medallion framework instance in GCP and serving as its owner.
 
-🌱 I use Git & GitHub for version control.
+🔧 Developed and currently developing custom business-oriented data platforms and agile analytics platforms using tech stack: Python, MySQL, PostgreSQL, DBT, Airflow, Docker, Git, GitHub, PowerShell, LINUX, cmd, AWS, GCP, Power BI, Looker.
 
-⚙️ Orchestrating with Apache Airflow | Docker | YAML.
+🌱 I use Git & GitHub for version control and DevOps; expert in environment synchronisation (dev to prod) and pull ops across systems.
 
-📊 5+ years' experience: Extraction, Staging, Pre-Processing, Formatting, Cleaning, Transformation, Preparation, Validation, Testing, Debugging, Production, Governance, Use case, Modeling, Automation, Tracking, Analytics & Reporting.
+⚙️ I orchestrate pipelines through Airflow DAG'S via Docker using LINUX subsystem.
 
-🌟 Creating automated and agile analytics dashboard pipelines sourcing data from MySQL Server, Amazon Redshift, Amazon RDS based stores and tech stacking with Python, MySQL, PSQL, Power BI, Looker. Ensuring efficient execution and hourly refresh.
+☁️ I have hands-on enterprise grade experience with several of the most powerful AWS services.
 
-☁️ I construct cloud pipelines with AWS services (IAM, DataSync, DMS, S3, LakeFormation, Glue, Athena, Aurora RDS, Lambda, EventBridge, EC2)
-
-🎯 I design, build, and plumb both platform and analytics pipelines.
-
-📝 I write algorithms, define pipelines, redefine and refactor to avoid process overhead.
+💻 Currently acting as a technical expert on key marketing systems (profile-based), analytics systems (record-based) and databases by building and managing throughput of 2.5Million+ profiles/records per day.
 
 🏢 Data tribe on a diverse team at the world’s #1 B2B business intelligence company.
 
