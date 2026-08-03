@@ -14,15 +14,15 @@
 
 🗼Living in Paris, passionate about - Strategic management | Data-driven decisions | Logic-driven problem-solving.
 
-🌟 Currently handling: "3 Data Stacks" - Database Design, Data Engineering, and Data Analysis.
+🌟 Currently handling: "3 Data Stacks" - Database Design, Data Engineering, and Data Analytics.
 
-⚙️ 5+ years' experience: Data Management, Data Architectures, Data Structures, Data Warehouse Architectures, Data Lakes, Data Hubs, Data Marts, Data Gateways, ETL's, ELT's, Dev / Prod.
+⚙️ 5+ years' experience: Data Management, Data Architectures, Data Structures, Data Warehouse Architectures, Data Lakes, Data Hubs, Data Marts, ETL's, ELT's, Dev / Prod.
 
-☁️ I specialize in ETL, ELT processes with AWS S3, AWS Redshift, AWS RDS, GCP Bigquery, MySQL Server based data platforms.
+☁️ I specialize in ETL, ELT processes with AWS S3, AWS Redshift, AWS RDS, GCP Bigquery, Presto DB, MySQL Server based data platforms.
 
 ☁️ In my current role, I have architected, built and delivered the first medallion framework instance in GCP and serving as its owner.
 
-🔧 Developed and currently developing custom business-oriented data platforms and agile analytics platforms using tech stack: Python, MySQL, PostgreSQL, DBT, Airflow, Docker, Git, GitHub, PowerShell, LINUX, cmd, AWS, GCP, Power BI, Looker.
+🔧 Developed and currently developing custom business-oriented data platforms and agile analytics platforms using tech stack: Python, MySQL, PostgreSQL, DBT, Airflow, Docker, Git, GitHub, PowerShell, LINUX, AWS, GCP, Presto DB, SQL Server, Power BI, and Looker.
 
 🌱 I use Git & GitHub for version control and DevOps; expert in environment synchronisation (dev to prod) and pull ops across systems.
 
@@ -32,7 +32,7 @@
 
 💻 Currently acting as a technical expert on key marketing systems (profile-based), analytics systems (record-based) and databases by building and managing throughput of 2.5Million+ profiles/records per day.
 
-🏢 Data tribe on a diverse team at the world’s #1 B2B business intelligence company.
+🏢 Data tribe on a diverse team at the world’s #1 B2B events, business intelligence, and information services company.
 
 📈 GitHub: https://github.com/PrasannaDataBus
 
