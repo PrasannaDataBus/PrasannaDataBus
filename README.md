@@ -2,7 +2,7 @@
 
 🌟 I have 7 years of experience with Python, 9 years with SQL & PostgreSQL - developing end-to-end data solutions.
 
-💼 Developer of python library named JobTitleTransformer.
+💼 Developer of open source python library named JobTitleTransformer.
 
 🧑‍💼 CEC Level 7 | EQF Level 7 | Bac +7
 
@@ -18,11 +18,11 @@
 
 ⚙️ 5+ years' experience: Data Management, Data Architectures, Data Structures, Data Warehouse Architectures, Data Lakes, Data Hubs, Data Marts, ETL's, ELT's, Dev / Prod.
 
-☁️ I specialize in ETL, ELT processes with AWS S3, AWS Redshift, AWS RDS, GCP Bigquery, Presto DB, MySQL Server based data platforms.
+☁️ I specialize in ETL, ELT processes with AWS S3, AWS Redshift, AWS RDS, GCP BigQuery, Presto DB, MS Fabric OneLake and MySQL Server — based data & analytics platforms.
 
 ☁️ In my current role, I have architected, built and delivered the first medallion framework instance in GCP and serving as its owner.
 
-🔧 Developed and currently developing custom business-oriented data platforms and agile analytics platforms using tech stack: Python, MySQL, PostgreSQL, DBT, Airflow, Docker, Git, GitHub, PowerShell, LINUX, AWS, GCP, Presto DB, SQL Server, Power BI, and Looker.
+🔧 Developed and currently developing custom business-oriented data platforms and agile analytics platforms using tech stack: Python, MySQL, PostgreSQL, DBT, Airflow, Docker, Git, GitHub, PowerShell, LINUX, AWS, GCP, Presto DB, SQL Server, MS Fabric, Power BI, and Looker.
 
 🌱 I use Git & GitHub for version control and DevOps; expert in environment synchronisation (dev to prod) and pull ops across systems.
 
