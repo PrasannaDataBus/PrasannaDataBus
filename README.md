@@ -20,7 +20,7 @@
 
 ☁️ I specialize in ETL, ELT processes with AWS S3, AWS Redshift, AWS RDS, GCP BigQuery, Presto DB, MS Fabric OneLake and MySQL Server — based data & analytics platforms.
 
-☁️ In my current role, I have architected, built and delivered the first medallion framework instance in GCP and serving as its owner.
+☁️ In my current role, I have architected, engineered, and delivered the first medallion framework instance in GCP and Microsoft Fabric OneLake to enable centralized, self-service analytics—while serving as its end-to-end owner.
 
 🔧 Developed and currently developing custom business-oriented data platforms and agile analytics platforms using tech stack: Python, MySQL, PostgreSQL, DBT, Airflow, Docker, Git, GitHub, PowerShell, LINUX, AWS, GCP, Presto DB, SQL Server, MS Fabric, Power BI, and Looker.
 
